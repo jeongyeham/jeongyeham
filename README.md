@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 This is Jeong Yeham
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeongyeham/jeongyeham/output/github-contribution-grid-snake-dark.svg">

@@ -16,7 +16,7 @@ This is Jeong Yeham
 
 
 ### About ENV
-* I use msys2 to manage all of my toolchains(except Python) whether on Windows or Linux.
-* I use Clion or Vscode to write codes which run on STM32, ESP32 and etc.
-* I use STM32CubeMX to start my projects and develop with HALL or LL library.
-* I use ESP-IDF framework to develop ESP32 series.
+* I use [msys2](https://www.msys2.org) to manage all of my toolchains(except [Python](https://www.python.org/)) whether on Windows or Linux.
+* I use [Clion](https://www.jetbrains.com/clion) or [Vscode](https://code.visualstudio.com) to write codes which run on STM32, ESP32 and etc.
+* I use [STM32CubeMX](https://www.st.com/en/development-tools/stm32cubemx) to start my projects and develop with HAL or LL library.
+* I use [ESP-IDF](https://www.espressif.com.cn/zh-hans/products/sdks/esp-idf) framework to develop ESP32 series.

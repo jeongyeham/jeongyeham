@@ -8,11 +8,11 @@ This is Jeong Yeham
 </picture>
 
 ### About ME
-😀 Major in analog IC design.<br>
-😁 Like learning and coding (Java, Python, C/C++, [System]Verilog, Scala, Go) in my free time.<br>
-😍 Love to make small objects in life.<br>
-🤤 Learning Java and Blender now.<br>
-🦜 Have a yellow doll named 'Parrot' with a hat that I knitted for 'him'. (My avatar)
+* Major in analog IC design.<br>
+* Like learning and coding (Java, Python, C/C++, [System]Verilog, Scala, Go) in my free time.<br>
+* Love to make small objects in life.<br>
+* Learning Java and Blender now.<br>
+* Have a yellow doll named 'Parrot' with a hat that I knitted for 'him'. (My avatar)
 
 
 ### About ENV

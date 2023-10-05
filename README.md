@@ -9,16 +9,16 @@ This is Jeong Yeham
 
 ### About ME
 * Major in analog IC design.<br>
-* Like learning and coding (Java, Python, C/C++, [System]Verilog, Scala, Go) in my free time.<br>
+* Like learning and coding (Java, Python, C/C++, [System]Verilog, Scala, Rust) in my free time.<br>
 * Love to make small objects in life.<br>
 * Learning Java and Blender now.<br>
 * Have a yellow doll named 'Parrot' with a hat that I knitted for 'him'. (My avatar)
 
 
 ### About ENV
-* I mainly use Fedora Linux to develop.
+* I mainly use [Fedora Linux](https://www.fedoraproject.org/) to develop.
 * I use [MSYS2](https://www.msys2.org) to manage all of my toolchains(except [Python](https://www.python.org/)) on Windows.
-* I use [Clion](https://www.jetbrains.com/clion) or [Vscode](https://code.visualstudio.com) to write codes which run on STM32, ESP32 and etc..
+* I use [CLion](https://www.jetbrains.com/clion) or [Vscode](https://code.visualstudio.com) to write codes which run on STM32, ESP32 and etc..
 * I use [STM32CubeMX](https://www.st.com/en/development-tools/stm32cubemx) to start my projects and develop with HAL or LL library.
 * I use [ESP-IDF](https://www.espressif.com.cn/zh-hans/products/sdks/esp-idf) framework to develop ESP32 series.
-* I mostly use CMake but also use Makefile to configure my project.
+* I mostly use [CMake](https://cmake.org/) but also use [Makefile](https://www.gnu.org/software/make/) to configure my project.

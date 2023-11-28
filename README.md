@@ -1,5 +1,6 @@
 ### Hi there 👋 
-This is Jeong Yeham
+This is Jeong Yeham,
+And now you have everything I had before!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeongyeham/jeongyeham/output/github-contribution-grid-snake-dark.svg">
@@ -9,7 +10,7 @@ This is Jeong Yeham
 
 ### About ME
 * Major in analog IC design.<br>
-* Like learning and coding (Java, Python, C/C++, [System]Verilog, Scala, Rust) in my free time.<br>
+* Like learning and coding (Java, Kotlin, Python, C/C++, [System]Verilog, Scala, Rust) in my free time.<br>
 * Love to make small objects in life.<br>
 * Learning Java and Blender now.<br>
 * Have a yellow doll named 'Parrot' with a hat that I knitted for 'him'. (My avatar)

@@ -1,5 +1,5 @@
 ### Hi there 👋 
-This is Jeong Yeham,
+This is Jeong Yeham <br>
 And now you have everything I had before!
 
 <picture>

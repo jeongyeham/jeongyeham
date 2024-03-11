@@ -10,7 +10,6 @@ And now you have everything I have had before!
 </picture>
 
 ### About ME
-* Major in analog IC design.<br>
 * Like learning and coding (Java, Kotlin, Python, C/C++, [System]Verilog, Scala, Rust) in my free time.<br>
 * Love to make small objects in life.<br>
 * Learning Java and Blender now.<br>

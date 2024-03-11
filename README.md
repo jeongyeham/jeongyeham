@@ -1,7 +1,7 @@
 ### Hi there 👋 
-Happy New Year !!! <br>
+
 This is Jeong Yeham <br>
-And now you have everything I had before!
+And now you have everything I have had before!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeongyeham/jeongyeham/output/github-contribution-grid-snake-dark.svg">

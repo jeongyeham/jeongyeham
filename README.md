@@ -13,7 +13,7 @@ And now you have everything I have had before!
 * Like learning and coding (Java, Kotlin, Python, C/C++, [System]Verilog, Scala, Rust) in my free time.<br>
 * Love to make small objects in life.<br>
 * Learning Java and Blender now.<br>
-* Have a yellow doll named 'Parrot' with a hat that I knitted for 'him'. (My avatar)
+* Have a yellow plush parrot doll named 'Abeibei', who dons a hat that I personally knitted for him, and the name was bestowed upon him by my friend Lora.(My avatar)
 
 
 ### About ENV

@@ -23,6 +23,7 @@ A mesmerizing visual representation of my GitHub activity over time. Check it ou
 
 #### 🖥️ Operating System
 - Windows with devdisk (ReFS)
+- Windows with WSL2
 
 #### 🔧 Toolchain Management
 - [MSYS2](https://www.msys2.org) for managing my toolchains

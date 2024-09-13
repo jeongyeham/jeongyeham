@@ -2,7 +2,7 @@
 
 ### Hi there 👋😘😘😘
 
-I'm Jeong Yeham, a passionate **Electronic Engineer** and a lover of all things code. 
+I'm Jeong Yeham, a passionate **Intergrated Electronic Engineer** and a lover of all things code. 
 ### 📈 GitHub Contribution Grid Snake Animation
 A mesmerizing visual representation of my GitHub activity over time. Check it out in both light and dark modes!
 
@@ -22,11 +22,11 @@ A mesmerizing visual representation of my GitHub activity over time. Check it ou
 ### 🛠️ Development Environment
 
 #### 🖥️ Operating System
-- Windows with devdisk (ReFS)
-- Windows with WSL2
+- HP Laptop with Fedora Linux
+- Windows with WSL
 
 #### 🔧 Toolchain Management
-- [MSYS2](https://www.msys2.org) for managing my toolchains
+- [MSYS2](https://www.msys2.org) for managing my toolchains on Windows11
 
 #### 💻 IDEs
 - [CLion](https://www.jetbrains.com/clion) for embedded systems like STM32 and ESP32

@@ -14,15 +14,14 @@ A mesmerizing visual representation of my GitHub activity over time. Check it ou
 
 ### 👤 About Me
 
-- **Languages I Love**: Java, Kotlin, Python, C/C++, SystemVerilog, Scala, Rust
+- **Languages I Love**: Java, Kotlin, Python, C/C++(mainly), SystemVerilog, Scala, Rust
 - **Creative Side**: Crafting small objects brings me joy
-- **Current Pursuits**: Deepening my knowledge in Java and exploring Blender
+- **Current Pursuits**: Deepening my knowledge in GaN HEMT
 - **Companion**: Meet 'Abeibei', my yellow plush parrot with a hat I knitted, named by my friend Lora
 
 ### 🛠️ Development Environment
 
 #### 🖥️ Operating System
-- HP Laptop with Fedora Linux
 - Windows with WSL
 
 #### 🔧 Toolchain Management

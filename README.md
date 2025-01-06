@@ -22,10 +22,11 @@ A mesmerizing visual representation of my GitHub activity over time. Check it ou
 ### 🛠️ Development Environment
 
 #### 🖥️ Operating System
-- Windows with WSL
+- Windows
 
-#### 🔧 Toolchain Management
-- [MSYS2](https://www.msys2.org) for managing my toolchains on Windows11
+#### 🔧 Toolchain
+- [MSYS2](https://www.msys2.org) for managing my GNU/LLVM toolchains on Windows11
+- [MSVC](https://visualstudio.microsoft.com/) for Rust!
 
 #### 💻 IDEs
 - [CLion](https://www.jetbrains.com/clion) for embedded systems like STM32 and ESP32

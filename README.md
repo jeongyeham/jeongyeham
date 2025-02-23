@@ -2,7 +2,7 @@
 
 ### Hi there 👋😘😘😘
 
-I'm Jeong Yeham, a passionate **Intergrated Electronic Engineer** and a lover of all things code. 
+I'm Jeong Yeham, a passionate **Intergrated Circuit Engineer** and a lover of all things code. 
 ### 📈 GitHub Contribution Grid Snake Animation
 A mesmerizing visual representation of my GitHub activity over time. Check it out in both light and dark modes!
 

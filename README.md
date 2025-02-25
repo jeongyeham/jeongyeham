@@ -14,9 +14,9 @@ A mesmerizing visual representation of my GitHub activity over time. Check it ou
 
 ### 👤 About Me
 
-- **Languages I Love**: Java, Kotlin, Python, C/C++(mainly), SystemVerilog, Scala, Rust
+- **Languages I Love**: Java(for JB's IDE), Kotlin(for Android APP), Python(for some research tools), C/C++(mainly), (System)Verilog(for FPGA), Rust(for hobby)
 - **Creative Side**: Crafting small objects brings me joy
-- **Current Pursuits**: Deepening my knowledge in GaN HEMT
+- **Current Pursuits**: Deepening my knowledge in GaN HEMT and GaN based intergrated circuits
 - **Companion**: Meet 'Abeibei', my yellow plush parrot with a hat I knitted, named by my friend Lora
 
 ### 🛠️ Development Environment

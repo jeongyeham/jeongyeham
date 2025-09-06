@@ -22,14 +22,11 @@ A mesmerizing visual representation of my GitHub activity over time. Check it ou
 ### 🛠️ Development Environment
 
 #### 🖥️ Operating System
-- Windows
-
-#### 🔧 Toolchain
-- [MSYS2](https://www.msys2.org) for managing my GNU/LLVM toolchains on Windows11
-- [MSVC](https://visualstudio.microsoft.com/) for Rust!
+- Unbuntu for desktop
+- Windows11 for laptop
 
 #### 💻 IDEs
-- [CLion](https://www.jetbrains.com/clion) for embedded systems like STM32 and ESP32
+- [JETBRAINS IDEs](https://www.jetbrains.com/ides/) Make it happen. With code.
 - [VSCode](https://code.visualstudio.com) for all other coding needs
 
 #### 🏗️ Project Starters
